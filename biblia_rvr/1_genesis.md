@@ -1,7 +1,7 @@
-Título: Génesis
+Título del libro: Génesis
 Autor: Moisés
 Categoría: Biblia
-Fecha: 1440-1400 a.C
+Fecha de publicación: 1440-1400 a.C
 
 # INTRODUCCIÓN
 
